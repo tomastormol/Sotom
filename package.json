@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-frame-component": "^5.2.6",
+    "selenium": "^2.20.0"
+  }
+}

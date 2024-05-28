@@ -1,0 +1,24 @@
+.chat-container {
+    height: var(--chat-height, 95vh);
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 3px;
+    margin-top: '1rem';
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #999;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}

@@ -1,0 +1,391 @@
+Fecha,Estacion,Temperatura
+2022-12-31,Avenida Francia,18.677032
+2022-12-30,Avenida Francia,17.506887
+2022-12-29,Avenida Francia,17.452826
+2022-12-28,Avenida Francia,17.59764
+2022-12-27,Avenida Francia,17.54906
+2022-12-26,Avenida Francia,17.919657
+2022-12-25,Avenida Francia,18.577843
+2022-12-24,Avenida Francia,18.686684
+2022-12-23,Avenida Francia,17.990097
+2022-12-22,Avenida Francia,17.556318
+2022-12-21,Avenida Francia,18.687288
+2022-12-20,Avenida Francia,18.713657
+2022-12-19,Avenida Francia,18.110184
+2022-12-18,Avenida Francia,18.851501
+2022-12-17,Avenida Francia,18.814316
+2022-12-16,Avenida Francia,18.445217
+2022-12-15,Avenida Francia,18.572899
+2022-12-14,Avenida Francia,15.283064
+2022-12-13,Avenida Francia,18.850576
+2022-12-12,Avenida Francia,18.07406
+2022-12-11,Avenida Francia,17.696201
+2022-12-10,Avenida Francia,18.367697
+2022-12-09,Avenida Francia,18.540298
+2022-12-08,Avenida Francia,18.530657
+2022-12-07,Avenida Francia,18.094551
+2022-12-06,Avenida Francia,18.67478
+2022-12-05,Avenida Francia,17.985226
+2022-12-04,Avenida Francia,16.678644
+2022-12-03,Avenida Francia,18.730598
+2022-12-02,Avenida Francia,18.39048
+2022-12-31,Bulevard Sud,17.501852
+2022-12-30,Bulevard Sud,18.536959
+2022-12-29,Bulevard Sud,18.627752
+2022-12-28,Bulevard Sud,17.769398
+2022-12-27,Bulevard Sud,19.255806
+2022-12-26,Bulevard Sud,21.749155
+2022-12-25,Bulevard Sud,18.51207
+2022-12-24,Bulevard Sud,18.766434
+2022-12-23,Bulevard Sud,18.530262
+2022-12-22,Bulevard Sud,22.785456
+2022-12-21,Bulevard Sud,17.594551
+2022-12-20,Bulevard Sud,18.58283
+2022-12-19,Bulevard Sud,18.801262
+2022-12-18,Bulevard Sud,18.735569
+2022-12-17,Bulevard Sud,17.482862
+2022-12-16,Bulevard Sud,17.861265
+2022-12-15,Bulevard Sud,15.950268
+2022-12-14,Bulevard Sud,18.628874
+2022-12-13,Bulevard Sud,18.809685
+2022-12-12,Bulevard Sud,18.029972
+2022-12-11,Bulevard Sud,17.778767
+2022-12-10,Bulevard Sud,18.570105
+2022-12-09,Bulevard Sud,17.805681
+2022-12-08,Bulevard Sud,18.966179
+2022-12-07,Bulevard Sud,18.435371
+2022-12-06,Bulevard Sud,17.373787
+2022-12-05,Bulevard Sud,18.603212
+2022-12-04,Bulevard Sud,18.875723
+2022-12-03,Bulevard Sud,18.337997
+2022-12-02,Bulevard Sud,18.659372
+2022-12-31,Conselleria Meteo,18.349537
+2022-12-30,Conselleria Meteo,18.495623
+2022-12-29,Conselleria Meteo,18.657303
+2022-12-28,Conselleria Meteo,18.747286
+2022-12-27,Conselleria Meteo,15.421509
+2022-12-26,Conselleria Meteo,18.446932
+2022-12-25,Conselleria Meteo,17.54641
+2022-12-24,Conselleria Meteo,17.727663
+2022-12-23,Conselleria Meteo,22.397213
+2022-12-22,Conselleria Meteo,17.553139
+2022-12-21,Conselleria Meteo,18.646265
+2022-12-20,Conselleria Meteo,18.473814
+2022-12-19,Conselleria Meteo,18.650372
+2022-12-18,Conselleria Meteo,18.747307
+2022-12-17,Conselleria Meteo,18.736557
+2022-12-16,Conselleria Meteo,18.565292
+2022-12-15,Conselleria Meteo,17.940903
+2022-12-14,Conselleria Meteo,17.785965
+2022-12-13,Conselleria Meteo,18.189781
+2022-12-12,Conselleria Meteo,18.53672
+2022-12-11,Conselleria Meteo,21.702312
+2022-12-10,Conselleria Meteo,18.114817
+2022-12-09,Conselleria Meteo,17.79291
+2022-12-08,Conselleria Meteo,17.92919
+2022-12-07,Conselleria Meteo,18.117544
+2022-12-06,Conselleria Meteo,18.563349
+2022-12-05,Conselleria Meteo,18.397905
+2022-12-04,Conselleria Meteo,18.463497
+2022-12-03,Conselleria Meteo,17.914644
+2022-12-02,Conselleria Meteo,18.231531
+2022-12-31,Moli del Sol,17.988564
+2022-12-30,Moli del Sol,18.304085
+2022-12-29,Moli del Sol,18.45975
+2022-12-28,Moli del Sol,17.349483
+2022-12-27,Moli del Sol,18.148594
+2022-12-26,Moli del Sol,17.553467
+2022-12-25,Moli del Sol,18.781252
+2022-12-24,Moli del Sol,17.544048
+2022-12-23,Moli del Sol,18.750269
+2022-12-22,Moli del Sol,17.590452
+2022-12-21,Moli del Sol,17.740229
+2022-12-20,Moli del Sol,19.250349
+2022-12-19,Moli del Sol,18.592127
+2022-12-18,Moli del Sol,17.331408
+2022-12-17,Moli del Sol,17.880499
+2022-12-16,Moli del Sol,18.332838
+2022-12-15,Moli del Sol,18.460667
+2022-12-14,Moli del Sol,14.325624
+2022-12-13,Moli del Sol,20.531498
+2022-12-12,Moli del Sol,18.623886
+2022-12-11,Moli del Sol,18.727873
+2022-12-10,Moli del Sol,18.598131
+2022-12-09,Moli del Sol,18.032103
+2022-12-08,Moli del Sol,18.700766
+2022-12-07,Moli del Sol,13.600939
+2022-12-06,Moli del Sol,18.47539
+2022-12-05,Moli del Sol,17.540329
+2022-12-04,Moli del Sol,19.562847
+2022-12-03,Moli del Sol,18.782711
+2022-12-02,Moli del Sol,15.0413265
+2022-12-31,Nazaret Meteo,18.46233
+2022-12-30,Nazaret Meteo,18.706945
+2022-12-29,Nazaret Meteo,22.254349
+2022-12-28,Nazaret Meteo,19.110876
+2022-12-27,Nazaret Meteo,17.891645
+2022-12-26,Nazaret Meteo,22.439663
+2022-12-25,Nazaret Meteo,17.409367
+2022-12-24,Nazaret Meteo,18.022625
+2022-12-23,Nazaret Meteo,18.70234
+2022-12-22,Nazaret Meteo,23.310259
+2022-12-21,Nazaret Meteo,17.626495
+2022-12-20,Nazaret Meteo,17.70528
+2022-12-19,Nazaret Meteo,18.831661
+2022-12-18,Nazaret Meteo,18.155172
+2022-12-17,Nazaret Meteo,18.349316
+2022-12-16,Nazaret Meteo,18.53838
+2022-12-15,Nazaret Meteo,18.597027
+2022-12-14,Nazaret Meteo,15.076826
+2022-12-13,Nazaret Meteo,17.672647
+2022-12-12,Nazaret Meteo,19.292913
+2022-12-11,Nazaret Meteo,12.010946
+2022-12-10,Nazaret Meteo,18.354115
+2022-12-09,Nazaret Meteo,18.750814
+2022-12-08,Nazaret Meteo,18.636803
+2022-12-07,Nazaret Meteo,20.210186
+2022-12-06,Nazaret Meteo,18.73884
+2022-12-05,Nazaret Meteo,18.572565
+2022-12-04,Nazaret Meteo,17.86725
+2022-12-03,Nazaret Meteo,16.628527
+2022-12-02,Nazaret Meteo,18.610363
+2022-12-31,Pista Silla,17.493258
+2022-12-30,Pista Silla,18.73169
+2022-12-29,Pista Silla,16.279707
+2022-12-28,Pista Silla,17.529348
+2022-12-27,Pista Silla,18.950804
+2022-12-26,Pista Silla,17.536285
+2022-12-25,Pista Silla,17.554607
+2022-12-24,Pista Silla,17.826204
+2022-12-23,Pista Silla,15.477258
+2022-12-22,Pista Silla,17.593826
+2022-12-21,Pista Silla,18.666843
+2022-12-20,Pista Silla,17.422182
+2022-12-19,Pista Silla,18.693321
+2022-12-18,Pista Silla,18.232468
+2022-12-17,Pista Silla,18.426277
+2022-12-16,Pista Silla,17.996727
+2022-12-15,Pista Silla,17.45034
+2022-12-14,Pista Silla,17.895008
+2022-12-13,Pista Silla,18.696415
+2022-12-12,Pista Silla,17.74421
+2022-12-11,Pista Silla,18.711199
+2022-12-10,Pista Silla,18.090342
+2022-12-09,Pista Silla,17.410124
+2022-12-08,Pista Silla,18.323273
+2022-12-07,Pista Silla,18.505665
+2022-12-06,Pista Silla,17.97462
+2022-12-05,Pista Silla,18.7943
+2022-12-04,Pista Silla,18.828075
+2022-12-03,Pista Silla,18.06641
+2022-12-02,Pista Silla,18.852232
+2022-12-31,Politecnico,16.506084
+2022-12-30,Politecnico,19.049463
+2022-12-29,Politecnico,17.708889
+2022-12-28,Politecnico,18.71417
+2022-12-27,Politecnico,19.00175
+2022-12-26,Politecnico,18.488873
+2022-12-25,Politecnico,17.905144
+2022-12-24,Politecnico,18.506367
+2022-12-23,Politecnico,18.690388
+2022-12-22,Politecnico,18.699072
+2022-12-21,Politecnico,17.507132
+2022-12-20,Politecnico,17.392061
+2022-12-19,Politecnico,17.70554
+2022-12-18,Politecnico,21.091831
+2022-12-17,Politecnico,18.458706
+2022-12-16,Politecnico,19.504128
+2022-12-15,Politecnico,19.235027
+2022-12-14,Politecnico,18.76896
+2022-12-13,Politecnico,18.674425
+2022-12-12,Politecnico,19.17351
+2022-12-11,Politecnico,17.6885
+2022-12-10,Politecnico,18.584482
+2022-12-09,Politecnico,18.695442
+2022-12-08,Politecnico,17.505648
+2022-12-07,Politecnico,18.737278
+2022-12-06,Politecnico,18.747086
+2022-12-05,Politecnico,17.88644
+2022-12-04,Politecnico,18.261354
+2022-12-03,Politecnico,17.926868
+2022-12-02,Politecnico,12.380058
+2022-12-31,Puerto Moll Tras Ponent,18.740221
+2022-12-30,Puerto Moll Tras Ponent,18.714321
+2022-12-29,Puerto Moll Tras Ponent,17.884232
+2022-12-28,Puerto Moll Tras Ponent,20.826494
+2022-12-27,Puerto Moll Tras Ponent,18.66657
+2022-12-26,Puerto Moll Tras Ponent,17.548878
+2022-12-25,Puerto Moll Tras Ponent,22.528952
+2022-12-24,Puerto Moll Tras Ponent,18.019804
+2022-12-23,Puerto Moll Tras Ponent,18.617962
+2022-12-22,Puerto Moll Tras Ponent,17.56198
+2022-12-21,Puerto Moll Tras Ponent,18.73843
+2022-12-20,Puerto Moll Tras Ponent,18.809364
+2022-12-19,Puerto Moll Tras Ponent,21.766336
+2022-12-18,Puerto Moll Tras Ponent,17.390255
+2022-12-17,Puerto Moll Tras Ponent,18.557081
+2022-12-16,Puerto Moll Tras Ponent,18.164295
+2022-12-15,Puerto Moll Tras Ponent,18.799767
+2022-12-14,Puerto Moll Tras Ponent,17.537296
+2022-12-13,Puerto Moll Tras Ponent,17.554256
+2022-12-12,Puerto Moll Tras Ponent,18.761604
+2022-12-11,Puerto Moll Tras Ponent,17.361055
+2022-12-10,Puerto Moll Tras Ponent,18.881466
+2022-12-09,Puerto Moll Tras Ponent,16.148441
+2022-12-08,Puerto Moll Tras Ponent,17.4818
+2022-12-07,Puerto Moll Tras Ponent,16.575586
+2022-12-06,Puerto Moll Tras Ponent,18.334105
+2022-12-05,Puerto Moll Tras Ponent,18.652378
+2022-12-04,Puerto Moll Tras Ponent,17.467802
+2022-12-03,Puerto Moll Tras Ponent,18.460617
+2022-12-02,Puerto Moll Tras Ponent,17.997972
+2018-12-31,Puerto Valencia,17.601856
+2018-12-30,Puerto Valencia,17.698622
+2018-12-29,Puerto Valencia,17.642076
+2018-12-28,Puerto Valencia,18.813465
+2018-12-27,Puerto Valencia,14.790609
+2018-12-26,Puerto Valencia,18.13995
+2018-12-25,Puerto Valencia,18.031973
+2018-12-24,Puerto Valencia,18.113066
+2018-12-23,Puerto Valencia,18.74939
+2018-12-22,Puerto Valencia,18.736963
+2018-12-21,Puerto Valencia,17.898571
+2018-12-20,Puerto Valencia,18.828186
+2018-12-19,Puerto Valencia,18.129133
+2018-12-18,Puerto Valencia,18.424337
+2018-12-17,Puerto Valencia,15.7029295
+2018-12-16,Puerto Valencia,18.784464
+2018-12-15,Puerto Valencia,18.875889
+2018-12-14,Puerto Valencia,18.841675
+2018-12-13,Puerto Valencia,18.824236
+2018-12-12,Puerto Valencia,18.836859
+2018-12-11,Puerto Valencia,18.772007
+2018-12-10,Puerto Valencia,18.543518
+2018-12-09,Puerto Valencia,18.585022
+2018-12-08,Puerto Valencia,18.643978
+2018-12-07,Puerto Valencia,18.766747
+2018-12-06,Puerto Valencia,18.553617
+2018-12-05,Puerto Valencia,18.86623
+2018-12-04,Puerto Valencia,18.331068
+2018-12-03,Puerto Valencia,18.427872
+2018-12-02,Puerto Valencia,18.836838
+2022-12-31,Puerto llit antic Turia,17.563686
+2022-12-30,Puerto llit antic Turia,17.651726
+2022-12-29,Puerto llit antic Turia,19.266466
+2022-12-28,Puerto llit antic Turia,19.470419
+2022-12-27,Puerto llit antic Turia,18.736168
+2022-12-26,Puerto llit antic Turia,18.375721
+2022-12-25,Puerto llit antic Turia,18.676634
+2022-12-24,Puerto llit antic Turia,17.835188
+2022-12-23,Puerto llit antic Turia,18.760893
+2022-12-22,Puerto llit antic Turia,17.555674
+2022-12-21,Puerto llit antic Turia,17.594944
+2022-12-20,Puerto llit antic Turia,17.855911
+2022-12-19,Puerto llit antic Turia,18.819807
+2022-12-18,Puerto llit antic Turia,21.974915
+2022-12-17,Puerto llit antic Turia,18.728203
+2022-12-16,Puerto llit antic Turia,18.754522
+2022-12-15,Puerto llit antic Turia,21.298763
+2022-12-14,Puerto llit antic Turia,18.362598
+2022-12-13,Puerto llit antic Turia,19.545898
+2022-12-12,Puerto llit antic Turia,18.20632
+2022-12-11,Puerto llit antic Turia,18.514885
+2022-12-10,Puerto llit antic Turia,18.858004
+2022-12-09,Puerto llit antic Turia,18.125
+2022-12-08,Puerto llit antic Turia,18.734257
+2022-12-07,Puerto llit antic Turia,12.836519
+2022-12-06,Puerto llit antic Turia,18.192291
+2022-12-05,Puerto llit antic Turia,18.765276
+2022-12-04,Puerto llit antic Turia,17.875967
+2022-12-03,Puerto llit antic Turia,18.525288
+2022-12-02,Puerto llit antic Turia,18.500631
+2022-12-31,Valencia Centro,17.570679
+2022-12-30,Valencia Centro,17.45665
+2022-12-29,Valencia Centro,18.275587
+2022-12-28,Valencia Centro,23.17634
+2022-12-27,Valencia Centro,18.70118
+2022-12-26,Valencia Centro,17.54827
+2022-12-25,Valencia Centro,18.586992
+2022-12-24,Valencia Centro,18.748857
+2022-12-23,Valencia Centro,18.721914
+2022-12-22,Valencia Centro,17.981462
+2022-12-21,Valencia Centro,17.615734
+2022-12-20,Valencia Centro,16.252987
+2022-12-19,Valencia Centro,18.716978
+2022-12-18,Valencia Centro,18.529919
+2022-12-17,Valencia Centro,18.839497
+2022-12-16,Valencia Centro,18.805454
+2022-12-15,Valencia Centro,17.897318
+2022-12-14,Valencia Centro,18.2578
+2022-12-13,Valencia Centro,17.392109
+2022-12-12,Valencia Centro,18.737806
+2022-12-11,Valencia Centro,19.118273
+2022-12-10,Valencia Centro,13.348344
+2022-12-09,Valencia Centro,18.667397
+2022-12-08,Valencia Centro,18.740324
+2022-12-07,Valencia Centro,12.434734
+2022-12-06,Valencia Centro,18.664938
+2022-12-05,Valencia Centro,18.20255
+2022-12-04,Valencia Centro,18.734228
+2022-12-03,Valencia Centro,18.706097
+2022-12-02,Valencia Centro,18.779955
+2022-12-31,Valencia Olivereta,19.37602
+2022-12-30,Valencia Olivereta,16.397575
+2022-12-29,Valencia Olivereta,17.517052
+2022-12-28,Valencia Olivereta,18.584816
+2022-12-27,Valencia Olivereta,17.82208
+2022-12-26,Valencia Olivereta,18.548998
+2022-12-25,Valencia Olivereta,18.992235
+2022-12-24,Valencia Olivereta,17.491325
+2022-12-23,Valencia Olivereta,18.752024
+2022-12-22,Valencia Olivereta,19.13298
+2022-12-21,Valencia Olivereta,22.573187
+2022-12-20,Valencia Olivereta,17.493464
+2022-12-19,Valencia Olivereta,18.636328
+2022-12-18,Valencia Olivereta,13.924653
+2022-12-17,Valencia Olivereta,18.81336
+2022-12-16,Valencia Olivereta,14.292686
+2022-12-15,Valencia Olivereta,18.271465
+2022-12-14,Valencia Olivereta,17.87387
+2022-12-13,Valencia Olivereta,18.738142
+2022-12-12,Valencia Olivereta,17.604944
+2022-12-11,Valencia Olivereta,18.705822
+2022-12-10,Valencia Olivereta,13.411015
+2022-12-09,Valencia Olivereta,18.317144
+2022-12-08,Valencia Olivereta,18.732334
+2022-12-07,Valencia Olivereta,18.634712
+2022-12-06,Valencia Olivereta,18.18079
+2022-12-05,Valencia Olivereta,16.591516
+2022-12-04,Valencia Olivereta,17.644577
+2022-12-03,Valencia Olivereta,18.784758
+2022-12-02,Valencia Olivereta,15.65087
+2022-12-31,Viveros,18.741062
+2022-12-30,Viveros,18.754486
+2022-12-29,Viveros,16.859232
+2022-12-28,Viveros,17.85013
+2022-12-27,Viveros,17.641052
+2022-12-26,Viveros,19.314896
+2022-12-25,Viveros,22.679003
+2022-12-24,Viveros,18.046656
+2022-12-23,Viveros,17.752987
+2022-12-22,Viveros,17.571878
+2022-12-21,Viveros,18.70572
+2022-12-20,Viveros,18.33408
+2022-12-19,Viveros,18.802368
+2022-12-18,Viveros,19.175573
+2022-12-17,Viveros,18.773806
+2022-12-16,Viveros,18.50242
+2022-12-15,Viveros,18.695278
+2022-12-14,Viveros,17.459064
+2022-12-13,Viveros,17.598284
+2022-12-12,Viveros,17.619337
+2022-12-11,Viveros,18.866037
+2022-12-10,Viveros,18.754374
+2022-12-09,Viveros,18.63662
+2022-12-08,Viveros,18.484413
+2022-12-07,Viveros,18.221191
+2022-12-06,Viveros,17.300852
+2022-12-05,Viveros,17.951113
+2022-12-04,Viveros,17.347858
+2022-12-03,Viveros,18.478361
+2022-12-02,Viveros,15.29887
