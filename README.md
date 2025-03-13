@@ -32,4 +32,4 @@ A **Power BI dashboard** displaying air pollution data from different monitoring
 4. Start the React frontend.  
 
 ## 📝 Authors
-This project was developed as part of a Master's degree in **Artificial Intelligence & Big Data**.
+This project was developed as part of a Master's degree in **Artificial Intelligence & Big Data** by Tomàs Tortosa Moltó & Soraya Pascual Calatayud
